@@ -1,7 +1,12 @@
-@import "header";
-
 body{
-  background: oa ;
-  display: flex;
-  flex-direction: row-reverse;
+  background: deepskyblue;
+.boxOne{
+  display: none;
+  background: brown;
+}
+
+
+}
+.active{
+  display: block!important;
 }
